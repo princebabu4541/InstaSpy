@@ -11,7 +11,8 @@ namespace InstaSpy
     public class Spy
     {
         private const string MainUrl = "https://www.instagram.com/";
-        private const string LoginUrl = "https://www.instagram.com/accounts/login/ajax/";
+        private const string LoginUrl = "https://www.instagram.com/accounts/login/princebabu4541
+            /";
         private readonly string _userName;
         private readonly string _password;
 
